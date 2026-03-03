@@ -6,9 +6,9 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 
-A powerful, self-hosted GitHub Desktop alternative built with React + Go. Manage pull requests, issues, notifications, workflows, and local git operations — all inline, without leaving the app.
+A powerful, self-hosted GitHub Desktop alternative built with React + Go. Manage pull requests, issues, notifications, workflows, and local git operations, all inline, without leaving the app.
 
-> **Single binary · No Electron · No cloud sync · Runs on localhost:8765**
+Single binary · No Electron · No cloud sync · Runs on localhost:8765
 
 ---
 
